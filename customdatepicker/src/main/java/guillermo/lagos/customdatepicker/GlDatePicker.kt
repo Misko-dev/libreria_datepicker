@@ -9,7 +9,7 @@ import java.text.ParseException
 import java.text.SimpleDateFormat
 import java.util.*
 
-class DatePickerDialog : DatePickerDialog {
+class GlDatePicker : DatePickerDialog {
 
 
     private var datePickerDialog: DatePickerDialog? = null
